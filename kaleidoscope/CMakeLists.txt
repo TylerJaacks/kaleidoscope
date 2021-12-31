@@ -1,0 +1,1 @@
+add_executable(kaleidoscope_run src/main.cpp src/language.cpp)
