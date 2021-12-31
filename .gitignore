@@ -184,3 +184,14 @@ tests/CMakeFiles/tests_run.dir/progress.make
 tests/CMakeFiles/tests_run.dir/__/kaleidoscope/src/main.cpp.o
 tests/CMakeFiles/tests_run.dir/src/main.cpp.o
 tests/CMakeFiles/tests_run.dir/src/test.cpp.o
+kaleidoscope/CMakeFiles/kaleidoscope.dir/src/language.cpp.o
+kaleidoscope/CMakeFiles/kaleidoscope.dir/progress.make
+kaleidoscope/CMakeFiles/kaleidoscope.dir/link.txt
+kaleidoscope/CMakeFiles/kaleidoscope.dir/flags.make
+kaleidoscope/CMakeFiles/kaleidoscope.dir/DependInfo.cmake
+kaleidoscope/CMakeFiles/kaleidoscope.dir/depend.make
+kaleidoscope/CMakeFiles/kaleidoscope.dir/depend.internal
+kaleidoscope/CMakeFiles/kaleidoscope.dir/CXX.includecache
+kaleidoscope/CMakeFiles/kaleidoscope.dir/cmake_clean.cmake
+kaleidoscope/CMakeFiles/kaleidoscope.dir/build.make
+kaleidoscope/kaleidoscope

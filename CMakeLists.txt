@@ -20,4 +20,4 @@ add_subdirectory(kaleidoscope)
 
 llvm_map_components_to_libnames(llvm_libs support core irreader mcjit native)
 
-target_link_libraries(kaleidoscope_run ${llvm_libs})
+target_link_libraries(kaleidoscope ${llvm_libs})
